@@ -43,4 +43,4 @@ print(predictions)
 
 ## License
 
-This project is licensed under the [MIT LICENSE](https://git.fim.uni-passau.de/padas/24ss-mllab/fejzo/ml-lab/-/blob/main/LICENSE?ref_type=heads).
+This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - see the [License](https://git.fim.uni-passau.de/padas/24ss-mllab/fejzo/ml-lab/-/blob/main/LICENSE?ref_type=heads) file for details.
