@@ -1,10 +1,10 @@
-# ML Lab
+# ML Library
 
 
 
 ## A Python Machine Learning Library
 
-A Python library that provides implementations of various machine learning algorithms for tasks such as regression, classification, clustering, and more. 
+ML-Library is a Python library that provides implementations of various machine learning algorithms for tasks such as regression, classification, clustering, and more. 
 
 ## Supported Algorithms
 
@@ -43,4 +43,4 @@ print(predictions)
 
 ## License
 
-This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - see the [License](https://git.fim.uni-passau.de/padas/24ss-mllab/fejzo/ml-lab/-/blob/main/LICENSE?ref_type=heads) file for details.
+This project is licensed under the [MIT LICENSE](https://git.fim.uni-passau.de/padas/24ss-mllab/fejzo/ml-lab/-/blob/main/LICENSE?ref_type=heads).
