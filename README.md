@@ -10,21 +10,32 @@ A Python library that provides implementations of various machine learning algor
 
 1. Linear Regression
 2. Logistic Regression
-3. k-Means
-4. Naive Bayes
-5. Decision Trees
-6. Ensembles (Random Forest, Gradient Boosting)
+3. Naive Bayes
+4. Decision Trees 
+5. Ensembles (Random Forest, Gradient Boosting)
+6. K-Means
 7. Support Vector Machines (SVM)
 8. Artificial Neural Networks (Multi-layer Perceptron)
-9. Advanced Deep Learning (Custom architectures)
-10. Convolutional Neural Networks (CNNs)
+9. Convolutional Neural Networks (CNNs)
 
 ## Usage
 
-Here's an example of how to use ML-Lib to train a linear regression model:
+### Create a virtual environment(optional)
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+### Install requirements
+```bash
+pip install -r requirements.txt
+```
+
+## Example
+Here's a simple example of how to use ML-Lib to train a linear regression model:
 
 ```python
-from linear_regression.regression_sgd import SGDRegression
+from models.linear_regression.regression_sgd import SGDRegression
 import numpy as np
 
 # Create some sample data

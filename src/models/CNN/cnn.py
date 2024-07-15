@@ -5,7 +5,7 @@ Module for the Convolutional Neural Network (CNN) classifier (Session 11).
 from typing import Optional, Tuple, Sequence, Union
 
 import numpy as np
-
+from abc import ABC, abstractmethod
 from numpy.lib.stride_tricks import as_strided
 from numpy import einsum
 
